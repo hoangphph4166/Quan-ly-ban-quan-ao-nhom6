@@ -3,14 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Software%20Testing/QuanLyShopQuanAo/src/Form/NhanVienForm.java</file>
-            <file>file:/D:/Software%20Testing/QuanLyShopQuanAo/src/model/EventMenuSelected.java</file>
-            <file>file:/D:/Software%20Testing/QuanLyShopQuanAo/src/model/SanPham.java</file>
-            <file>file:/D:/Software%20Testing/QuanLyShopQuanAo/src/view/QLBH.java</file>
-            <file>file:/D:/Software%20Testing/QuanLyShopQuanAo/src/model/Model_Menu.java</file>
-            <file>file:/D:/Software%20Testing/QuanLyShopQuanAo/src/Form/KhachHangForm.java</file>
-            <file>file:/D:/Software%20Testing/QuanLyShopQuanAo/src/Form/SanPhamForm.java</file>
-            <file>file:/D:/Software%20Testing/QuanLyShopQuanAo/src/Form/ThongKeForm.java</file>
+            <file>file:/D:/QLBH/QuanLyShopQuanAo/src/service/DBConnect.java</file>
         </group>
     </open-files>
 </project-private>
